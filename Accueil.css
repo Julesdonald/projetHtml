@@ -1,0 +1,17 @@
+body{
+ padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+ background-color: burlywood;
+}
+
+.bloc3 img{border-radius: 25px;
+     transition: 6s ease; display: inline-block;
+     padding:0 30px; justify-content: center;
+    }
+    img{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 10vh;
+    }
